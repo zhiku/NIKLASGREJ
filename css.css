@@ -1,0 +1,184 @@
+body
+{
+background-color:black;
+color:white;
+font-family:"bauhaus 93";
+}
+#stats
+{
+width: 300px;
+height: 300px;
+border-width:5px;
+border-color:white;
+border-style:solid;
+border-radius:40px;
+position:absolute;
+left: 75px;
+top: 200px;
+background-color:#9c0000;
+}
+#hero
+{
+width: 400px;
+height: 550px;
+border-width:5px;
+border-color:white;
+border-style:solid;
+border-radius:40px;
+margin-left: -200px;
+position:absolute;
+left: 50%;
+top: 75px;
+background-color:#9c0000;
+}
+#crafting
+{
+width: 300px;
+height: 340px;
+border-width:5px;
+border-color:white;
+border-style:solid;
+border-radius:40px;
+position:absolute;
+right: 75px;
+top: 200px;
+background-color:#9c0000;
+}
+#text1
+{
+	margin-left:25px;
+}
+.header
+{
+	font-size:30px;
+}
+#statsheader
+{
+	position:absolute;
+	left: 190px;
+	top: 165px;
+}
+#heroheader
+{
+	position:absolute;
+	left: 50%;
+	top: 40px;
+	margin-left:-35px;
+}
+#craftingheader
+{
+	position:absolute;
+	right: 190px;
+	top: 165px;
+	margin-right:-20px;
+}
+#heropic
+{
+	position:fixed;
+	left:50%;
+	top:140px;
+	margin-left:-165px;
+}
+#inputname
+{
+	position:fixed;
+	left:50%;
+	top:570px;
+	margin-left:-135px;
+}
+#button
+{
+	width:52px;
+	height:20px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+	position:fixed;
+	left:50%;
+	top:571px;
+	margin-left:75px;
+	background-color:#0B0B61;
+}
+#heroname
+{
+	position:fixed;
+	left:50%;
+	top:100px;
+	margin-left:-25px;
+	width:50px;
+	height:50px;
+}
+#craftingweapon
+{
+	position:relative;
+	left:15px;
+	top:10px;
+	width:265px;
+	height:65px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+}
+#craftingweapon2
+{
+	position:relative;
+	left:15px;
+	top:20px;
+	width:265px;
+	height:65px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+}
+#craftingweapon3
+{
+	position:relative;
+	left:15px;
+	top:30px;
+	width:265px;
+	height:65px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+}
+#craftingweapon4
+{
+	position:relative;
+	left:15px;
+	top:40px;
+	width:265px;
+	height:65px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+}
+#statstext
+{
+	font-size:25px;
+	position:relative;
+	left:65px;
+	top:70px;
+}
+#x
+{
+	width:20px;
+	height:20px;
+	border-width:2px;
+	border-color:white;
+	border-style:solid;
+	border-radius:5px;
+	position:fixed;
+	left:50%;
+	top:571px;
+	margin-left:140px;
+	background-color:#0B0B61;
+}
+#delete
+{
+	margin-left:5px;
+}
